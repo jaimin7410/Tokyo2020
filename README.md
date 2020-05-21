@@ -7,7 +7,7 @@
 - Date picker
 - Custom Notification Schedular
 - Web-view
-- click to Phone App/ Email App/ AlertBox 
+- Click to Phone App/ Email App/ AlertBox 
 - Remember me! -SharedPreference
 
 
