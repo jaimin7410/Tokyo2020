@@ -1,14 +1,15 @@
 # Tokyo2020
 
 - Android College Project-1
-- Use of Sqlite
+- Use of Database room
 - Signin and Signup with validation
 - Adding images, details and show in list view
 - Date picker
 - Custom Notification Schedular
 - Web-view
-- Click to Phone App/ Email App/ AlertBox 
+- Click to Phone App/ Email App/ AlertBox
 - Remember me! -SharedPreference
+- Implicit and Explicit Intents
 
 
 
